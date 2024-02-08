@@ -1,7 +1,3 @@
----
-description: Descripción del gitbook
----
-
 # PumaHat Hacking Nights
 
 "PumaHat Hacking Nights" es un grupo de estudio por y para la comunidad, donde nos enfocaremos en resolver juntos máquinas y retos de ciberseguridad.&#x20;
