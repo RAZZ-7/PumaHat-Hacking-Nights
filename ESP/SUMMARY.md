@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PumaHat Hacking Nights](README.md)
+* [PumaHat Hacking Nights🌙👨‍💻](README.md)
 
 ## 📑 Cheat Sheets
 
